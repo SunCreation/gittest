@@ -11,3 +11,5 @@ java 1.8이상버전<br>python3-dev<br>python3-pip<br>
 
 
 \<unk\>
+
+느리군요 휴먼
